@@ -13,6 +13,6 @@ public class ViewHolder extends RecyclerView.ViewHolder {
 
     public ViewHolder(View itemView) {
         super(itemView);
-        this.task = itemView.findViewById(R.id.checkbox);
+        task = itemView.findViewById(R.id.checkbox);
     }
 }
