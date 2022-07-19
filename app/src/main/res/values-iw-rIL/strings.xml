@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TodoListApp</string>
+    <string name="delete_dialog_title">מחק משימה</string>
+    <string name="delete_dialog_info">האם אתה בטוח שברצונך למחוק משימה זו?</string>
+    <string name="delete_dialog_confirm_btn">אישור</string>
+    <string name="delete_dialog_cancel_btn">ביטול</string>
+    <string name="tasks">רשימת משימות</string>
+    <string name="new_task">משימה חדשה</string>
+    <string name="save_btn">שמור</string>
+</resources>
